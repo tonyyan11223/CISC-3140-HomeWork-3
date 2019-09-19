@@ -5,4 +5,4 @@
 - Third use terminal to install: pip install Flask
 - In the app.py, I use the python Flask take NASA API title, copytright, data, image,explanation to run in the local host.
 - In the app.py, I also write some CSS and HTML to make the wbsite pretty.
-- The NASA API local host Picture.png is screan the picture for the progarm run in local host.
+- The NASA API local host Picture.png is screan the picture for the code run in local host.
